@@ -1,8 +1,8 @@
 # Avaliação de Nivelamento
 
-Nome: __________________________________________
+Nome: ____________________________________________________
 
-Matrícula: ________/____________________________
+Matrícula: ________/______________________________________
 
 ## Leia-me
 
@@ -21,6 +21,8 @@ stackoverflow e usei o código que a resposta indicava)
 [ 3 ] já usei na prática e já estudei a teoria
 
 Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
+
+## Questões
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] editor de texto
 
