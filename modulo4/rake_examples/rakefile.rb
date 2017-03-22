@@ -32,5 +32,18 @@ namespace :db do
   task :seed do
 
   end
+end
+
+desc 'tarefas relacionadas ao IRB'
+namespace :irb do
+  desc "prepara variaveis de ambiente"
+  task :ambience do
+  end
+
+  desc "inicia o IRB"
+  task :start => [:ambience] do
+    require 'irb'
+    ARGV.clear
+    IRB.start
   end
 end
