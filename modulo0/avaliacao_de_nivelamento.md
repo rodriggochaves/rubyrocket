@@ -40,7 +40,11 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] scrum
 
+[&nbsp;&nbsp;&nbsp;&nbsp;] scrum master
+
 [&nbsp;&nbsp;&nbsp;&nbsp;] sprint
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] responsibilidades de project owner
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] histórias de usuários
 
@@ -58,11 +62,15 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] `git merge`
 
+[&nbsp;&nbsp;&nbsp;&nbsp;] pull requests
+
 [&nbsp;&nbsp;&nbsp;&nbsp;] trabalho em equipe no Git
 
 ### HTML/CSS
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] tags em HTML
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] marcação semântica
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] tags em HTML 5
 
@@ -76,9 +84,11 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] frameworks de CSS
 
+[&nbsp;&nbsp;&nbsp;&nbsp;] normalize
+
 [&nbsp;&nbsp;&nbsp;&nbsp;] bootstrap
 
-### Javascript
+### Javascript & JQuery
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] lógica de programa em javascript
 
@@ -115,15 +125,25 @@ linguagens de programação
 [&nbsp;&nbsp;&nbsp;&nbsp;] estrutura imperativa, condicional e repetitiva em
 ruby
 
+[&nbsp;&nbsp;&nbsp;&nbsp;] controle de fluxo
+
 [&nbsp;&nbsp;&nbsp;&nbsp;] orientação a objetos
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] orientação a objetos em ruby
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] Json
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] RVM
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] programação funcional em ruby
 
+[&nbsp;&nbsp;&nbsp;&nbsp;] ruby gems
+
 ### Ruby on Rails
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] MVC
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] asset pipeline
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] ERB
 
@@ -136,6 +156,12 @@ ruby
 [&nbsp;&nbsp;&nbsp;&nbsp;] rest routes
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] ajax
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] object relational mapping
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] controle de acesso
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] rails CLI
 
 ### Testes no Rails
 
