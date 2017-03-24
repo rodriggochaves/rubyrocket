@@ -26,27 +26,27 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 ### Utilidades
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] editor de texto
+[&nbsp;&nbsp;&nbsp;&nbsp;] Editor de texto
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] inspecionar elemento no browser
+[&nbsp;&nbsp;&nbsp;&nbsp;] Inspecionar elemento no browser
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] método ágil
+[&nbsp;&nbsp;&nbsp;&nbsp;] Método ágil
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] paleta de comandas do editor de texto
+[&nbsp;&nbsp;&nbsp;&nbsp;] Paleta de comandas do editor de texto
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] bash
+[&nbsp;&nbsp;&nbsp;&nbsp;] Bash
 
 ### Metodologia de Projetos
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] scrum
+[&nbsp;&nbsp;&nbsp;&nbsp;] Scrum
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] scrum master
+[&nbsp;&nbsp;&nbsp;&nbsp;] Scrum master
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] sprint
+[&nbsp;&nbsp;&nbsp;&nbsp;] Sprint
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] responsibilidades de project owner
+[&nbsp;&nbsp;&nbsp;&nbsp;] Responsibilidades de project owner
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] histórias de usuários
+[&nbsp;&nbsp;&nbsp;&nbsp;] Histórias de usuários
 
 ### Git
 
@@ -62,51 +62,51 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] `git merge`
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] pull requests
+[&nbsp;&nbsp;&nbsp;&nbsp;] Pull requests
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] trabalho em equipe no Git
+[&nbsp;&nbsp;&nbsp;&nbsp;] Trabalho em equipe no Git
 
 ### HTML/CSS
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] tags em HTML
+[&nbsp;&nbsp;&nbsp;&nbsp;] Tags em HTML
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] marcação semântica
+[&nbsp;&nbsp;&nbsp;&nbsp;] Marcação semântica
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] tags em HTML 5
+[&nbsp;&nbsp;&nbsp;&nbsp;] Tags em HTML 5
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] DOM
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] seletores CSS
+[&nbsp;&nbsp;&nbsp;&nbsp;] Seletores CSS
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] regras CSS
+[&nbsp;&nbsp;&nbsp;&nbsp;] Regras CSS
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] animacao em CSS
+[&nbsp;&nbsp;&nbsp;&nbsp;] Animação em CSS
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] frameworks de CSS
+[&nbsp;&nbsp;&nbsp;&nbsp;] Frameworks de CSS
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] normalize
+[&nbsp;&nbsp;&nbsp;&nbsp;] Normalize
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] bootstrap
+[&nbsp;&nbsp;&nbsp;&nbsp;] Bootstrap
 
 ### Javascript & JQuery
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] lógica de programa em javascript
+[&nbsp;&nbsp;&nbsp;&nbsp;] Lógica de um programa em Javascript
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] funções anônimas
+[&nbsp;&nbsp;&nbsp;&nbsp;] Funções anônimas
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] objetos em javascript
+[&nbsp;&nbsp;&nbsp;&nbsp;] Objetos em Javascript
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] funcionalidades ES6 no javascript
+[&nbsp;&nbsp;&nbsp;&nbsp;] Funcionalidades ES6 no Javascript
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] seleção de elemetos jquery
+[&nbsp;&nbsp;&nbsp;&nbsp;] Seleção de elemetos Jquery
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] events listerners
+[&nbsp;&nbsp;&nbsp;&nbsp;] EVents listerners
 
 ### Banco de dados
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] diagrama entidade relacional
+[&nbsp;&nbsp;&nbsp;&nbsp;] Diagrama Entidade Relacional (DER)
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] sistemas gerenciadores de banco de dados
+[&nbsp;&nbsp;&nbsp;&nbsp;] Sistemas Gerenciadores de Banco de Dados (SGBD)
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] `select * from users`
 
@@ -115,35 +115,35 @@ user.profile_id == profile.id`
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] `select * from users where usuario.id == 27`
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] query N + 1
+[&nbsp;&nbsp;&nbsp;&nbsp;] Query N + 1
 
 ### Ruby
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] estrutura imperativa, condicional e repetitiva em
+[&nbsp;&nbsp;&nbsp;&nbsp;] EstruturaS imperativa, condicional e repetitiva em
 linguagens de programação
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] estrutura imperativa, condicional e repetitiva em
-ruby
+[&nbsp;&nbsp;&nbsp;&nbsp;] EstruturaS imperativa, condicional e repetitiva em
+Ruby
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] controle de fluxo
+[&nbsp;&nbsp;&nbsp;&nbsp;] Controle de fluxo
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] orientação a objetos
+[&nbsp;&nbsp;&nbsp;&nbsp;] Orientação a objetos
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] orientação a objetos em ruby
+[&nbsp;&nbsp;&nbsp;&nbsp;] Orientação a objetos em Ruby
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Json
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] RVM
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] programação funcional em ruby
+[&nbsp;&nbsp;&nbsp;&nbsp;] Programação funcional em Ruby
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] ruby gems
+[&nbsp;&nbsp;&nbsp;&nbsp;] Ruby Gems
 
 ### Ruby on Rails
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] MVC
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] asset pipeline
+[&nbsp;&nbsp;&nbsp;&nbsp;] Asset Pipeline
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] ERB
 
@@ -151,33 +151,33 @@ ruby
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] SASS e SCSS
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] http
+[&nbsp;&nbsp;&nbsp;&nbsp;] HTTP
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] rest routes
+[&nbsp;&nbsp;&nbsp;&nbsp;] Rest routes
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] ajax
+[&nbsp;&nbsp;&nbsp;&nbsp;] AJAX
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] object relational mapping
+[&nbsp;&nbsp;&nbsp;&nbsp;] Object Relational Mapping
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] controle de acesso
+[&nbsp;&nbsp;&nbsp;&nbsp;] Controle de acesso
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] rails CLI
+[&nbsp;&nbsp;&nbsp;&nbsp;] Rails CLI
 
 ### Testes no Rails
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] testes unitarios
+[&nbsp;&nbsp;&nbsp;&nbsp;] Testes unitários
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] testes de integração
+[&nbsp;&nbsp;&nbsp;&nbsp;] Testes de integração
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] mocks e stubs
+[&nbsp;&nbsp;&nbsp;&nbsp;] Mocks e stubs
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] RSpec
 
 
 # Deploy
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] heroku
+[&nbsp;&nbsp;&nbsp;&nbsp;] Heroku
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] integração contínua
+[&nbsp;&nbsp;&nbsp;&nbsp;] Integração contínua
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] deploy em nuvem
+[&nbsp;&nbsp;&nbsp;&nbsp;] Deploy em nuvem
