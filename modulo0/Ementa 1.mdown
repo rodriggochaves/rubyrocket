@@ -7,7 +7,7 @@
 + Banco de Dados;
 + Ruby e Ruby on Rails.
 
-##Bibliografia 
+## Bibliografia 
 + HTML & CSS: Design and Build Web Sites - Jon Dukket
 + Eloquent Javascript - A modern introduction to programming - Marjin Haverbeke
 + https://tympanus.net/codrops/css_reference/
