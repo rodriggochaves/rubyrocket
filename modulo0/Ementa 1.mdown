@@ -1,0 +1,21 @@
+# Ementa
+
+## Tecnologias apresentadas
++ GitHub;
++ HTML/CSS; 
++ Javascript e JQuery; 
++ Banco de Dados;
++ Ruby e Ruby on Rails.
+
+##Bibliografia 
++ HTML & CSS: Design and Build Web Sites - Jon Dukket
++ Eloquent Javascript - A modern introduction to programming - Marjin Haverbeke
++ https://tympanus.net/codrops/css_reference/
++ http://guides.rubyonrails.org/v4.2/
++ http://api.rubyonrails.org/v4.2/
+
+## Avaliação
++ 50% exercícios
++ 30% prova
++ 15% atividades surpresas
++ 5% presença
