@@ -28,3 +28,6 @@ de cadastro da casa de leilões. Você precisa encontrar rapidamente o arquivo
 `Atom` você pode usar?
 
 &nbsp;
+
+**Questão 5** Você ainda está trabalhando no sistema de cadastro da casa de
+leilão
