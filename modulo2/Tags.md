@@ -4,6 +4,7 @@
 
 ### Iniciando um documento em HTML
 ```html
+<!DOCTYPE HTML>  Ao ler essa tag, o navegador entende que se trata de um HTML e sabe como deve interpretar as demais tags.
 <html> Primeira tag indispensável de um documento em HTML. Todas as demais tags devem estar abaixo dela. 
 ```
 ### Inserindo informações, imagens, links e códigos
