@@ -7,11 +7,6 @@ namespace :slides do
     exec "pandoc #{name}.md #{directives} -o #{name}.pdf"
     exec "open #{name}.pdf"
   end
-
-  desc "documento do modulo um teoria"
-  task :module1_theory do
-    exec "rake 'slides:create[modulo1/teoria]'"
-  end
 end
 
 

@@ -90,43 +90,6 @@ https://www.railstutorial.org/book/beginning
 https://www.learnenough.com/text-editor-tutorial
 https://www.learnenough.com/command-line-tutorial
 
-# Git
-
-https://try.github.io/levels/1/challenges/1
-
-# O que é?
-
-"Git is a free and open source distributed version control system designed to
-handle everything from small to very large projects with speed and efficiency."
-
-# Comandos
-
-```bash
-$ git init
-
-$ git status
-
-$ git add <files>
-
-$ git commit -m 'mensagem'
-
-$ git push <remote> <branch>
-
-$ git pull <remote> <branch>
-
-$ git remote set-url <name> <link>
-```
-
-# Branch
-
-```bash
-$ git checkout <nome_do_branch>
-
-$ git checkout -b <nome_do_branch>
-
-$ git checkout -d <nome_do_branch>
-```
-
 # Referências
 
 + https://pt.wikipedia.org/wiki/Bash

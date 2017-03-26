@@ -30,13 +30,13 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Inspecionar elemento no browser
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] Método ágil
-
 [&nbsp;&nbsp;&nbsp;&nbsp;] Paleta de comandas do editor de texto
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Bash
 
 ### Metodologia de Projetos
+
+[&nbsp;&nbsp;&nbsp;&nbsp;] Métodologia ágil
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Scrum
 
@@ -100,7 +100,7 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Seleção de elemetos Jquery
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] EVents listerners
+[&nbsp;&nbsp;&nbsp;&nbsp;] Events listerners
 
 ### Banco de dados
 
@@ -174,7 +174,7 @@ Ruby
 [&nbsp;&nbsp;&nbsp;&nbsp;] RSpec
 
 
-# Deploy
+### Deploy
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Heroku
 
