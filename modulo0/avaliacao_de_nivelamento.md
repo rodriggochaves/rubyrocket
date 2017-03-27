@@ -6,19 +6,19 @@ Matrícula: ________/______________________________________
 
 ## Leia-me
 
-Essa avaliação tem como objetivo avaliar seus conhecimentos em todas as áreas
-do processo trainee e fornecer alguns bônus que serão apresentados ao final do
+Esta avaliação tem como objetivo avaliar seus conhecimentos em todas as áreas
+do processo trainee e fornecer alguns bônus, que serão apresentados ao final do
 tempo de avaliação. Responda todas as questões conforme o seguinte critério:
 
-[ 0 ] nunca ouvi falar;
+[ 0 ] Nunca ouvi falar;
 
-[ 1 ] já estudei teoricamente mas nunca apliquei; (ler a documentação, ler
-livros ou assistir aulas, etc...)
+[ 1 ] Já estudei teoricamente, mas nunca apliquei (ex: ler a documentação, ler
+livros, assistir aulas, etc...); 
 
-[ 2 ] já usei na prática mas nunca estudei a teoria que existe; (fui no
-stackoverflow e usei o código que a resposta indicava)
+[ 2 ] Já usei na prática, mas nunca estudei a teoria que existe (ex: fui no
+stackoverflow e usei o código que a resposta indicava);
 
-[ 3 ] já usei na prática e já estudei a teoria
+[ 3 ] Já usei na prática e já estudei a teoria.
 
 Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
@@ -26,13 +26,13 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 
 ### Utilidades
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] Editor de texto
+[&nbsp;&nbsp;&nbsp;&nbsp;] Editores de texto
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Inspecionar elemento no browser
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] Paleta de comandas do editor de texto
+[&nbsp;&nbsp;&nbsp;&nbsp;] Paleta de comandos do editor de texto
 
-[&nbsp;&nbsp;&nbsp;&nbsp;] Bash
+[&nbsp;&nbsp;&nbsp;&nbsp;] Bash / Terminal
 
 ### Metodologia de Projetos
 
@@ -63,8 +63,6 @@ Responda as perguntas com sinceridade, e se ficar em dúvida, responda com zero.
 [&nbsp;&nbsp;&nbsp;&nbsp;] `git merge`
 
 [&nbsp;&nbsp;&nbsp;&nbsp;] Pull requests
-
-[&nbsp;&nbsp;&nbsp;&nbsp;] Trabalho em equipe no Git
 
 ### HTML/CSS
 
