@@ -30,7 +30,14 @@ namespace :db do
 
   desc 'insere dados de exemplos'
   task :seed do
-
+    File.open("database.txt", "w") do |file|
+      file.write("Rodrigo Chaves\t12/04/1996\n")
+      file.write("Rafael Alves\t12/04/1996\n")
+      file.write("Wladimir Gramacho\t12/04/1996\n")
+      file.write("Mateus Luiz\t12/04/1996\n")
+      file.write("Gabriel Almeida\t12/04/1996\n")
+      file.write("Vitor Bona\t12/04/1996\n")
+    end
   end
 end
 
