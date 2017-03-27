@@ -1,12 +1,57 @@
 # Ruby & Rake
 
-Rodrigo Chaves
-
----
-
 # Ruby - Revisão de Sintaxe
 
----
+# String 
+
+```ruby
+"Hello, World!"
+```
+
+# Interpolação de Strings
+
+```ruby
+name = "Rodrigo"
+"Hello, #{name}"
+```
+
+# Funções
+
+```ruby
+def greet(name)
+  return "Hello, #{name}"
+end
+```
+
+```ruby
+def greet name
+  "Hello, #{name}"
+end
+```
+
+# Símbolos
+
+```ruby
+:name, :anything
+```
+
+Símbolos são mais eficientes que strings. Duas strings com o mesmo conteúdo são 
+dois objetos diferentes, mas para qualquer nome existe apenas um objeto Symbol. 
+Isso pode economizar tempo e memória.[^1]
+
+[^1]: http://guru-sp.github.io/tutorial_ruby/simbolos.html
+
+# Hash
+
+```ruby
+hash = {
+  :name => "Rodrigo Chaves",
+  :age => 20,
+  :birthday => "12/04/1996"
+}
+
+hash[:name] == "Rodrigo Chaves"
+```
 
 # Rake
 
@@ -67,7 +112,7 @@ rake testall          # Run all test targets
 
 1. Crie uma tarefa rake que compila um programa C.
 
-2. Crie 
+2. Crie uma tarefa rake que compila 2 programas C e gera o executável.
 
 # Referências
 
