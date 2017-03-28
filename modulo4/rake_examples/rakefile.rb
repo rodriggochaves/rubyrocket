@@ -1,3 +1,14 @@
+def directives
+  "-Wall -std=c11"  
+end
+
+def compile name
+  directives = "-Wall -std=c11"
+  cmd = "clang #{directives} -c #{name}.c"
+  puts cmd
+  system cmd 
+end
+
 desc 'Hello world example task'
 task :hello_world do
   puts "Hello World!"
@@ -16,6 +27,50 @@ task :c_compiler, [:name] do |t, args|
   if status
     system("./#{args[:name]}")
   end
+end
+
+desc 'compilar meu programar modulo'
+namespace :module do
+
+  desc 'Compila o functions.c'
+  task :functions do
+    cmd = "clang #{directives} -c functions.c"
+    puts cmd
+    system(cmd)
+  end
+
+  desc 'compila o main.c'
+  task :main do
+    compile "main"
+  end
+
+  desc "link dos .o"
+  task :link => [:functions, :main] do
+    cmd = "clang #{directives} -o executable main.o functions.o"
+    puts cmd
+    system cmd
+  end
+
+  desc "executa meu programa"
+  task :exec => [:link] do
+    cmd = "./executable"
+    puts cmd
+    system cmd
+  end
+
+  desc "apaga .o's"
+  # task :clean do
+  #   files = Dir.glob("*.o")
+  #   cmd = "rm #{files.join(" ")}"
+  #   puts cmd
+  #   system cmd
+  # end
+  task :clean do
+    files = Dir.glob("*.o")
+    files << Dir.glob("executable").first
+    files.each{ |file| File.delete(file) } if files.empty?
+  end
+
 end
 
 desc 'tarefas relacionadas ao meu banco de dados em arquivo'
