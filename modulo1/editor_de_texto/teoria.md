@@ -1,6 +1,5 @@
 % Editor de Texto
-% Rodrigo Chaves
-
+% Patrícia Guimarães e Rodrigo Chaves
 
 # Editor de Texto Atom
 

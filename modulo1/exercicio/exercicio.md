@@ -30,4 +30,12 @@ de cadastro da casa de leilões. Você precisa encontrar rapidamente o arquivo
 &nbsp;
 
 **Questão 5** Você ainda está trabalhando no sistema de cadastro da casa de
-leilão
+leilão. Você modificou algumas classes e agora precisa colocar suas alterações
+no git. Quais comandos você precisa usar para colocar suas alterações no
+remote `origin` e branch `develop`?
+
+&nbsp;
+
+**Questão 6** O que são `branchs` no contexto do git e para o que são usados?
+
+&nbsp;
