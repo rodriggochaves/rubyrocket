@@ -1,9 +1,13 @@
+task :print_name, [:name] do |t, args|
+  status = system "ls"
+  puts status
+end
+
 def directives
   "-Wall -std=c11"  
 end
 
 def compile name
-  directives = "-Wall -std=c11"
   cmd = "clang #{directives} -c #{name}.c"
   puts cmd
   system cmd 
@@ -22,7 +26,7 @@ end
 desc 'Tasks para compilar um programa em C'
 task :c_compiler, [:name] do |t, args|
   cmd = "clang -Wall #{args[:name]}.c -o #{args[:name]}"
-  # puts cmd
+  puts cmd
   status = system(cmd)
   if status
     system("./#{args[:name]}")
@@ -59,17 +63,18 @@ namespace :module do
   end
 
   desc "apaga .o's"
-  # task :clean do
-  #   files = Dir.glob("*.o")
-  #   cmd = "rm #{files.join(" ")}"
-  #   puts cmd
-  #   system cmd
-  # end
   task :clean do
     files = Dir.glob("*.o")
-    files << Dir.glob("executable").first
-    files.each{ |file| File.delete(file) } if files.empty?
+    # puts files
+    cmd = "rm #{files.join(" ")}"
+    puts cmd
+    system cmd
   end
+  # task :clean do
+  #   files = Dir.glob("*.o")
+  #   files << Dir.glob("executable").first
+  #   files.each{ |file| File.delete(file) } if files.empty?
+  # end
 
 end
 
@@ -106,6 +111,6 @@ namespace :irb do
   task :start => [:ambience] do
     require 'irb'
     ARGV.clear
-    IRB.start
+    system "irb -r './animals.rb'"
   end
 end
