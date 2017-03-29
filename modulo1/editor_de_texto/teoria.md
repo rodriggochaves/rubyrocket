@@ -1,6 +1,5 @@
-# Utilidades
-
-Rodrigo Chaves
+% Editor de Texto
+% Rodrigo Chaves
 
 
 # Editor de Texto Atom
