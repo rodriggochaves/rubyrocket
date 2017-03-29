@@ -117,9 +117,8 @@ rake testall          # Run all test targets
 3. Simular duas tarefas de Rails relacionadas ao banco de dados, em um banco
 de dados.
 
-(a) criar o arquivo .txt
-
-(b) preencher o arquivo .txt com dados de exemplo
++ (a) criar o arquivo .txt
++ (b) preencher o arquivo .txt com dados de exemplo
 
 4. Criar um modulo de ruby e criar um tarefa rake para carregá-lo no 
 interpretador ruby.
