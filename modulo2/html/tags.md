@@ -5,6 +5,14 @@
 
 Hyper Text Markup Language
 
+# Formato geral
+
+`<tag atributo1='atributo'>texto</tag>`
+
+ou
+
+`<tag atributo1='qualquer_coisa' />`
+
 <!-- aprender a centralizar o título -->
 <!-- ### Iniciando um documento em HTML -->
 
