@@ -105,3 +105,17 @@ end
 3) Fazer o teste e o método da divisão
 
 # Exemplo da Pilha
+
+```ruby
+RSpec.describe Factory do
+  before(:example) do
+    @factory = Factory.new
+  end
+
+  it 'eh criada com a pilha vazia' do
+    expect(@factory.stack).to be_empty
+  end
+
+  ...
+end
+```
