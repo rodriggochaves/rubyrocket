@@ -104,6 +104,10 @@ end
 
 3) Fazer o teste e o método da divisão
 
+# Stubs
+
+
+
 # Exemplo da Pilha
 
 ```ruby
@@ -119,3 +123,19 @@ RSpec.describe Factory do
   ...
 end
 ```
+
+# Exercício
+
+1) Criar uma classe usando testes de uma conta bancária. Ela deve ter um método
+para:
+
++ criar uma nova conta (`#initialize`)
++ depositar dinheiro
++ sacar dinheiro
++ rendimento mensal de 3%
+
+2) Faça testes que:
+
++ usar um `before` para criar um objeto de testes
++ teste que eu não posse saca mais dinheiro do que tem na minha conta
++ o rendimento está correto depois de 3, 6 e 12 meses
