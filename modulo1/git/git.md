@@ -36,6 +36,10 @@ $ git checkout <nome_do_branch>
 $ git checkout -b <nome_do_branch>
 
 $ git checkout -d <nome_do_branch>
+
+$ git merge <branch>
+
+$ git fecth --all
 ```
 
 # Exercício
