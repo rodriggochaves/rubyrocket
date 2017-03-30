@@ -90,7 +90,7 @@ end
 
 ```ruby
 class Calculator
-  def add
+  def add a,b
     a + b
   end
 end
