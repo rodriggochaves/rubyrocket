@@ -16,6 +16,10 @@ ou
 <!-- aprender a centralizar o título -->
 <!-- ### Iniciando um documento em HTML -->
 
+# DOM
+
+# Estrutura de árvore
+
 # `<!DOCTYPE HTML> `
 
  Ao ler essa tag, o navegador entende que se trata de um HTML e sabe como deve 
@@ -26,6 +30,9 @@ em questão foi criado usando a especificação do HTML5.
 
 Primeira tag indispensável de um documento em HTML. 
 Todas as demais tags devem estar abaixo dela. 
+
+# Comentários
+
 
 <!-- aprender a centralizar o título -->
 <!-- # Inserindo meta informações -->
