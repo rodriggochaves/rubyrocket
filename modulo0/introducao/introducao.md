@@ -36,7 +36,7 @@ para **sistemas de informação** distribuídos
 
 # Estrutura da Mensagem
 
-
+![Mensagem](modulo0/imagens/mensagem.png)
 
 # Arquitetura Cliente Servidor
 
@@ -44,6 +44,12 @@ para **sistemas de informação** distribuídos
 
 # Domain Name Server
 
+![DNS](modulo0/imagens/dns.png)
+
 # Fluxo
 
 ![Fluxo](modulo0/imagens/web.png){witdh=400}
+
+# Referências
+
+[Wikipedia HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
