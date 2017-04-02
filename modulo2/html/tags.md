@@ -151,4 +151,4 @@ Represents a button .
 
 + [develop mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list)
 + [devmedia](http://www.devmedia.com.br/comandos-e-tags-html5/23618)
-+ [W3schools](https://www.w3schools.com/tags/default.asp)
++ [HTMLReference](http://htmlreference.io/element/meta/)
