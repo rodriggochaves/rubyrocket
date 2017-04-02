@@ -31,30 +31,43 @@ em questão foi criado usando a especificação do HTML5.
 Primeira tag indispensável de um documento em HTML. 
 Todas as demais tags devem estar abaixo dela. 
 
-# Comentários
 
+# Comentários
 
 <!-- aprender a centralizar o título -->
 <!-- # Inserindo meta informações -->
 
 # `<head> </head>`
 
-É o cabeçalho da página, onde se encontram informações sobre a mesma.
+É o cabeçalho da página, onde se encontram informações sobre a mesma,
+ou seja,as metainformações.
 Dentro dela, incluiremos outras informaçes, como título, links, estilo, etc.
+
+# `<meta>`
+
+É dentro dessa tag que sero colocadas informações sobre o documento HTML que
+não serão visíveis a quem acessar a página, como, por exemplo, a codificação
+de caracteres utilizada no documento.
 
 # `<title> </title>`
 
 Fica dentro do `<head>` e define o título do documento, que aparece na barra
 de título do navegador ou na guia da página.
 
-# `<link>`
+# `<link> </link>`
 
-# `<meta>`
+É utilizado para "linkar", ou seja, ligar arquivos externos (como documentos
+em JavaScript e CSS) ao documento HTML.
 
-# `<style>`
+# `<style> </style>`
 
-# `<script>`
+É utilizado para alterar o estilo de algum texto do documento HTML, como,
+por exemplo, a cor. É escrito no formato CSS.
 
+# `<script> </script>`
+
+É utilizada para definir tanto um script interno quanto um link para um
+script externo. É escrito no formato JavaScript.
 
 <!-- ### Corpo do documento -->
 
@@ -138,3 +151,4 @@ Represents a button .
 
 + [develop mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list)
 + [devmedia](http://www.devmedia.com.br/comandos-e-tags-html5/23618)
++ [W3schools](https://www.w3schools.com/tags/default.asp)
