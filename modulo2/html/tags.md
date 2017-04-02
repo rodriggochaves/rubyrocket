@@ -22,11 +22,11 @@ ou
 
 # `<!DOCTYPE HTML> `
 
- Ao ler essa tag, o navegador entende que se trata de um HTML e sabe como deve 
+Ao ler essa tag, o navegador entende que se trata de um HTML e sabe como deve 
 interpretar as demais tags. Além disso, `<!DOCTYPE HTML> ` define que o arquivo
 em questão foi criado usando a especificação do HTML5.
 
-# `<html>` 
+# `<html> </html>` 
 
 Primeira tag indispensável de um documento em HTML. 
 Todas as demais tags devem estar abaixo dela. 
@@ -37,9 +37,15 @@ Todas as demais tags devem estar abaixo dela.
 <!-- aprender a centralizar o título -->
 <!-- # Inserindo meta informações -->
 
-# `<head>`
+# `<head> </head>`
 
-# `<title>`
+É o cabeçalho da página, onde se encontram informações sobre a mesma.
+Dentro dela, incluiremos outras informaçes, como título, links, estilo, etc.
+
+# `<title> </title>`
+
+Fica dentro do `<head>` e define o título do documento, que aparece na barra
+de título do navegador ou na guia da página.
 
 # `<link>`
 
