@@ -18,6 +18,7 @@ Por que usamos atalhos enquanto programamos?
 + colar (ctrl + v)
 + recortar (ctrl + x)
 + encontrar (ctrl + f)
++ selecionar tudo (ctrl + a)
 
 
 # Atalhos que vocês podem não conhecer
