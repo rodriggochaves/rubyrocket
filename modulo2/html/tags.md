@@ -89,8 +89,7 @@ há um atributo que faz essa ligação, o `src`, que indica o local
 em que a imagem se encontra. Também pode ser utilizado o atributo
 `alt` para descrever a imagem.
 
-# `<h1> </h1>, <h2> </h2>, <h3> </h3>,
-<h4> </h4>, <h5> </h5>, <h6> </h6>`
+# `<h1> </h1>,..., <h6> </h6>`
 
 Definem os tamanhos de um título ou cabeçalho de um texto, sendo
 h1 o maior tamanho e h6 o menor.
