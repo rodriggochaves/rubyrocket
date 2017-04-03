@@ -89,7 +89,8 @@ há um atributo que faz essa ligação, o `src`, que indica o local
 em que a imagem se encontra. Também pode ser utilizado o atributo
 `alt` para descrever a imagem.
 
-# `<h1> </h1>,..., <h6> </h6>`
+# `<h1> </h1>, <h2> </h2>, <h3> </h3>`
+# `<h4> </h4>, <h5> </h5>, <h6> </h6>`
 
 Definem os tamanhos de um título ou cabeçalho de um texto, sendo
 h1 o maior tamanho e h6 o menor.
@@ -97,7 +98,6 @@ h1 o maior tamanho e h6 o menor.
 # `<p>`
 
 Configura o texto no formato de um parágrafo.
-
 
 # `<br>`
 
@@ -110,37 +110,50 @@ sobre assuntos distintos. É representado como uma linha horizontal.
 
 <!-- ### Lista -->
 
-# `<ol> <li>`
+# `<ol> </ol>`
 
-# `<ul> <li>`
+Utilizado para indicar uma lista ordenada.
+
+# `<ul> </ul>`
+
+Utilizado para indicar uma lista não-ordenada.
+
+# `<li> </li>`
+
+Utilizado para indicar cada item de uma lista, seja ela ordenada ou não.
 
 <!-- ### Tabela -->
 <!-- REMOVER <col>	Representa uma coluna da tabela. -->
 
-# `<table>`
+# `<table> </table>`
 
-# `<tbody>`
+Utilizado para indicar que, deste ponto em diante, haverá uma tabela.
+Dentro desta tag, deverão ser adicionadas outras tags, mostradas em seguida.
 
-Representa o bloco de linhas que descreve os dados concretos de uma tabela.
+# `<thead> </thead>`
 
-# `<thead>`
+É o bloco de linhas que descreve o(s) cabeçalho(s) de uma tabela
 
-Representa o bloco de linhas que descreve os cabeçalhos de uma tabela
+# `<tfoot> <\tfoot>`
 
-# `<tfoot>`
+É o bloco de linhas que descreve o(s) rodapé(s) de uma tabela.
 
-Representa o bloco de linhas que descreve o rodapé de uma tabela.
+# `<tbody> <\tbody>`
 
-# `<tr>`
+É o bloco de linhas que descreve os dados de uma tabela.
 
-Representa uma linha de células em uma tabela.
+# `<th> <\th>`
 
-# `<td>`
+É utilizado para nomear os itens do cabeçalho e/ou do rodapé da tabela.
 
-Representa uma célula de dados em uma tabela.
+# `<td> <\td>`
 
-# `<th>`
+É o que define uma célula em uma tabela.
 
+# `<tr> <\tr>`
+
+É o que indica uma linha uma tabela. Deve ser utilizado entre o `<thead>`
+e o `<th>`, entre o `<tfoot>` e o `<th>` e entre o `<tbody>` e o `<td>`.
 
 <!-- ### Formulário -->
 
