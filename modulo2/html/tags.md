@@ -71,11 +71,23 @@ script externo. É escrito no formato JavaScript.
 
 <!-- ### Corpo do documento -->
 
-# `<body>`
+# `<body> </body>`
+
+Onde se encontra o principal conteúdo de um documento HTML. Nele, são
+encontrados textos, imagens, links, etc.
 
 # `<a>`
 
+Um hiperlink, ou seja, apresenta um link a um outro URL, uma seção,
+entre outras coisas. Essa ligação é feita por meio do `href`, que
+se encontra dentro da mesma linha de a.
+
 # `<img>`
+
+É utilizado para inserir uma imagem. Dá mesma forma que em `<a>`,
+há um atributo que faz essa ligação, o `src`, que indica o local
+em que a imagem se encontra. Também pode ser utilizado o atributo
+`alt` para descrever a imagem.
 
 # `<h1><h2><h3><h4><h5><h6>`
 
