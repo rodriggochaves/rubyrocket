@@ -22,7 +22,12 @@ ou
 
 # DOM
 
-# Estrutura de árvore
+O DOM é uma multi-plataforma que representa como as marcações em HTML, XHTML e 
+XML são organizadas e lidas pelo navegador que você usa. Uma vez indexadas, 
+estas marcações se transformam em elementos de uma árvore que você pode 
+manipular via API – que é o que fazemos quando usamos programas ou scripts 
+para alterar funcionalidades de uma página: conteudo, estrutura ou folha de 
+estilo.
 
 # `<!DOCTYPE HTML> `
 
@@ -185,3 +190,4 @@ Represents a button .
 + [develop mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list)
 + [devmedia](http://www.devmedia.com.br/comandos-e-tags-html5/23618)
 + [HTMLReference](http://htmlreference.io/element/meta/)
++ [DOM Tabless](https://tableless.com.br/tenha-o-dom/)
