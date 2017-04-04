@@ -7,11 +7,15 @@ Hyper Text Markup Language
 
 # Formato geral
 
-`<tag atributo1='atributo'>texto</tag>`
+```html
+<tag atributo1='atributo'>texto</tag>
+```
 
 ou
 
-`<tag atributo1='qualquer_coisa' />`
+```html
+<tag atributo1='qualquer_coisa' />
+```
 
 <!-- aprender a centralizar o título -->
 <!-- ### Iniciando um documento em HTML -->
@@ -34,8 +38,9 @@ Todas as demais tags devem estar abaixo dela.
 
 # Comentários
 
-<!-- aprender a centralizar o título -->
-<!-- # Inserindo meta informações -->
+```
+<!-- aqui vão comentários -->
+```
 
 # `<head> </head>`
 
@@ -45,9 +50,9 @@ Dentro dela, incluiremos outras informaçes, como título, links, estilo, etc.
 
 # `<meta>`
 
-É dentro dessa tag que sero colocadas informações sobre o documento HTML que
+É dentro dessa tag que serão colocadas informações sobre o documento HTML que
 não serão visíveis a quem acessar a página, como, por exemplo, a codificação
-de caracteres utilizada no documento.
+de caracteres utilizada no documento. É a tag mais generica quanto a metainformações..
 
 # `<title> </title>`
 
@@ -69,8 +74,6 @@ por exemplo, a cor. É escrito no formato CSS.
 É utilizada para definir tanto um script interno quanto um link para um
 script externo. É escrito no formato JavaScript.
 
-<!-- ### Corpo do documento -->
-
 # `<body> </body>`
 
 Onde se encontra o principal conteúdo de um documento HTML. Nele, são
@@ -87,10 +90,9 @@ se encontra dentro da mesma linha de a.
 É utilizado para inserir uma imagem. Dá mesma forma que em `<a>`,
 há um atributo que faz essa ligação, o `src`, que indica o local
 em que a imagem se encontra. Também pode ser utilizado o atributo
-`alt` para descrever a imagem.
+`alt` para um texto alternativo a imagem..
 
 # `<h1> </h1>, <h2> </h2>, <h3> </h3>`
-# `<h4> </h4>, <h5> </h5>, <h6> </h6>`
 
 Definem os tamanhos de um título ou cabeçalho de um texto, sendo
 h1 o maior tamanho e h6 o menor.
@@ -107,8 +109,6 @@ Indica uma quebra de linha.
 
 Utilizado para uma separação entre blocos de textos que tratam
 sobre assuntos distintos. É representado como uma linha horizontal.
-
-<!-- ### Lista -->
 
 # `<ol> </ol>`
 
@@ -142,6 +142,12 @@ Dentro desta tag, deverão ser adicionadas outras tags, mostradas em seguida.
 
 É o bloco de linhas que descreve os dados de uma tabela.
 
+# `<tr> <\tr>`
+
+É o que indica uma linha uma tabela. Deve ser utilizado entre o `<thead>`
+
+e o `<th>`, entre o `<tfoot>` e o `<th>` e entre o `<tbody>` e o `<td>`.
+
 # `<th> <\th>`
 
 É utilizado para nomear os itens do cabeçalho e/ou do rodapé da tabela.
@@ -149,13 +155,6 @@ Dentro desta tag, deverão ser adicionadas outras tags, mostradas em seguida.
 # `<td> <\td>`
 
 É o que define uma célula em uma tabela.
-
-# `<tr> <\tr>`
-
-É o que indica uma linha uma tabela. Deve ser utilizado entre o `<thead>`
-e o `<th>`, entre o `<tfoot>` e o `<th>` e entre o `<tbody>` e o `<td>`.
-
-<!-- ### Formulário -->
 
 # `<form>`
 
@@ -176,8 +175,6 @@ Represents a button .
 # `<select>`
 
 # `<fieldset>`
-
-<!-- html5 -->
 
 # `<header>`
 
